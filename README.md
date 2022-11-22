@@ -2,4 +2,5 @@
 
 Olá! Bem-vindo ao meu livro de receitas :woman_cook:
 
-- Strogonoff de frango
+- Strogonoff de frang
+- Pave
